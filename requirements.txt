@@ -1,4 +1,0 @@
-fake-useragent
-requests
-rich
-bs4
