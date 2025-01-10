@@ -21,7 +21,7 @@ $ make run
 ## Full tutorialnya?
 - Link video v1 (old) <code><a href="https://youtu.be/R53d9-o7uh4?si=M-Cgwrp9l1o-BF5_">klik disini</a></code>
 - Link video v2 (new) <code><a href="https://youtu.be/44HrDpRm3cE?si=ZRQnEceFsIzBh48N">klik disini</a></code>
-- Subs yt admin <code><a href="https://www.youtube.com/@yukinime_editz">Yukinime</a></code>
+- Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial">FREE TUTORIAL</a></code>
 <div align="center">
 
 ### Jgn lupa kasih star masbro !
